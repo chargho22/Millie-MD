@@ -99,7 +99,7 @@ let handler = async (m, { conn, text, args,usedPrefix,command,isPrems, isOwner }
      • 𝗗𝗮𝘁𝗮 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗜𝘀𝘀𝘂𝗲𝘀 `, null, {})
 }}
 handler.help = ['ʏᴛᴍᴘ4 <ᴜʀʟ>']
-handler.tags = ['downloader']
+handler.tags = ['جاري تحميل اصحبي']
 handler.command = /^yt(v?(ideo)?|mpp?4|v?short)(d(oc(ument)?)?)?$/i
 
 
